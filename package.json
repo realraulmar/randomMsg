@@ -1,0 +1,28 @@
+{
+  "name": "@raulmar/random-messages",
+  "version": "1.0.0",
+  "description": "Random messages generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Raul Mar <raulhdz40@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realraulmar/randomMsg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/realraulmar/randomMsg/issues"
+  },
+  "homepage": "https://github.com/realraulmar/randomMsg#readme"
+}
