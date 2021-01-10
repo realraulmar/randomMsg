@@ -1,4 +1,4 @@
-# random-messages
+# Random Messages
 
 This script says hi to a random person every time. If you want your name in the array, make a pull request changing the index.js
 
